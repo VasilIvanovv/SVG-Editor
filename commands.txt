@@ -1,0 +1,6 @@
+Print - Prints all figures
+Create - Create a new figure
+Erase - Delete a figure
+Translate - Translates one or more figures horizontally and vertically
+example: Translate horizontal=10 vertical=20
+Within - Print figures that are in a give area (Circle or Rectangle)
